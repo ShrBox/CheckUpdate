@@ -1,5 +1,7 @@
 [
-  {"name":"1.0.2","versionNum":8},
-  {"name":"1.0.3","versionNum":9},
-  {"name":"1.1.0","versionNum":10}
+  {
+    "name":"1.1.1",
+    "versionNum":11,
+    "content":"Some Api adjustments"
+  }
 ]
