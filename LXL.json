@@ -1,5 +1,22 @@
 {
     "notice":[],
+    "AutoUpdate":
+    {
+        "Version":"0.3.2",
+        "URL":"https://cdn.jsdelivr.net/gh/LiteLDev/update/LXL/",
+        "Files":[
+            {
+                "Name":"LiteXLoader.Js.dll",
+                "Install":"plugins",
+                "MD5":""
+            },
+            {
+                "Name":"LiteXLoader.Lua.dll",
+                "Install":"plugins",
+                "MD5":""
+            }
+        ]
+    },
     "versions":{
         "0.3.1":{
             "notice":[]
