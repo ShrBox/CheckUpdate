@@ -3,30 +3,35 @@
     "AutoUpdate":
     {
         "Version":"0.3.2",
+        "BDS":"1.17.10",
         "URL":"https://cdn.jsdelivr.net/gh/LiteLDev/update/LXL/",
         "Files":[
             {
                 "Name":"LiteXLoader.Js.dll",
                 "Install":"plugins",
-                "MD5":""
+                "MD5":"dfae43c8a4fd6bdf40cc082e990c2eec"
             },
             {
                 "Name":"LiteXLoader.Lua.dll",
                 "Install":"plugins",
-                "MD5":""
+                "MD5":"0dad28ef954a57c2acd29f7a2811309d"
             }
         ]
     },
 
 
 
-
-
-
     
     "versions":{
         "0.3.1":{
-            "notice":[]
+            "notice":[
+                "【更新公告】LiteXLoader 0.3.2版本已发布，请尽快更新到新版本。",
+                "【更新公告】前往 https://www.minebbs.com/resources/litexloader-x-bds.2670/ 下载最新版本LXL更新",
+                "【更新公告】新版本新增自动更新机制，此后在BDS版本不变的情况下，将不再需要手动更新",
+                "【New Version】LiteXLoader 0.3.2 has been released. Upgrade to the new verion as soon as possible",
+                "【New Version】Go to https://www.minebbs.com/resources/litexloader-x-bds.2670/ to get the newest version of LXL",
+                "【New Version】Auto upgrade system comes! Have a try, you will like it!"
+            ]
         },
         "0.3.0":{
             "notice":[
