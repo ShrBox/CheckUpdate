@@ -2,19 +2,19 @@
     "notice":[],
     "AutoUpdate":
     {
-        "Version":"0.4.0",
+        "Version":"0.4.1",
         "BDS":"1.17.10",
         "URL":"https://cdn.jsdelivr.net/gh/LiteLDev/update/LXL/",
         "Files":[
             {
                 "Name":"LiteXLoader.Js.dll",
                 "Install":"plugins",
-                "MD5":"ef6bcccf0e18e2e6f9aece81468524c5"
+                "MD5":"984f061176037c42d0c1d7241d3eab6e"
             },
             {
                 "Name":"LiteXLoader.Lua.dll",
                 "Install":"plugins",
-                "MD5":"22a2568265c9307dff44e03234eb8d83"
+                "MD5":"6180b19de7199aa9bf668d2daa1a642d"
             }
         ]
     },
