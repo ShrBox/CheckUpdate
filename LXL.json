@@ -9,12 +9,12 @@
             {
                 "Name":"LiteXLoader.Js.dll",
                 "Install":"plugins",
-                "MD5":"ee919c38fe88558d8871226efd79647e"
+                "MD5":"a65304cc0279a042b84598c8fa5e5c46"
             },
             {
                 "Name":"LiteXLoader.Lua.dll",
                 "Install":"plugins",
-                "MD5":"965701db1bdac8ace5331f534ba8cc04"
+                "MD5":"1c0620c6605193bf065db122c3223404"
             }
         ]
     },
