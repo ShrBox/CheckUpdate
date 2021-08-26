@@ -2,19 +2,19 @@
     "notice":[],
     "AutoUpdate":
     {
-        "Version":"0.4.5",
+        "Version":"0.5.0",
         "BDS":"1.17.10",
-        "URL":"https://lxl-upgrade.amd.rocks/LXL/1.17.10/",
+        "URL":"https://lxl-upgrade.amd.rocks/LXL/BAK/",
         "Files":[
             {
                 "Name":"LiteXLoader.Js.dll",
                 "Install":"plugins",
-                "MD5":"7c266392546489e4cc2e4d67555f317a"
+                "MD5":"862f9daae5890f0600535f07b36c6013"
             },
             {
                 "Name":"LiteXLoader.Lua.dll",
                 "Install":"plugins",
-                "MD5":"1fd7041f91b4f300d4c457dc3503b908"
+                "MD5":"65c31e5b4e0af8c804ede16b5c01422f"
             }
         ]
     },
@@ -25,30 +25,30 @@
     "versions":{
         "0.3.1":{
             "notice":[
-                "【更新公告】LiteXLoader 0.4.5版本已发布，请尽快更新到新版本。",
+                "【更新公告】LiteXLoader 0.5.0版本已发布，请尽快更新到新版本。",
                 "【更新公告】前往 https://www.minebbs.com/resources/litexloader-x-bds.2670/ 下载最新版本LXL更新",
                 "【更新公告】新版本新增自动更新机制，此后在BDS版本不变的情况下，将不再需要手动更新",
-                "【New Version】LiteXLoader 0.4.5 has been released. Upgrade to the new verion as soon as possible",
+                "【New Version】LiteXLoader 0.5.0 has been released. Upgrade to the new verion as soon as possible",
                 "【New Version】Go to https://www.minebbs.com/resources/litexloader-x-bds.2670/ to get the newest version of LXL",
                 "【New Version】Auto upgrade system comes! Have a try, you will like it!"
             ]
         },
         "0.3.0":{
             "notice":[
-                "【更新公告】LiteXLoader 0.4.5版本已发布，请尽快更新到新版本。",
+                "【更新公告】LiteXLoader 0.5.0版本已发布，请尽快更新到新版本。",
                 "【更新公告】前往 https://www.minebbs.com/resources/litexloader-x-bds.2670/ 下载最新版本LXL更新",
                 "【更新公告】新版本新增自动更新机制，此后在BDS版本不变的情况下，将不再需要手动更新",
-                "【New Version】LiteXLoader 0.4.5 has been released. Upgrade to the new verion as soon as possible",
+                "【New Version】LiteXLoader 0.5.0 has been released. Upgrade to the new verion as soon as possible",
                 "【New Version】Go to https://www.minebbs.com/resources/litexloader-x-bds.2670/ to get the newest version of LXL",
                 "【New Version】Auto upgrade system comes! Have a try, you will like it!"
             ]
         },
         "0.2.1":{
             "notice":[
-                "【更新公告】LiteXLoader 0.4.5版本已发布，请尽快更新到新版本。",
+                "【更新公告】LiteXLoader 0.5.0版本已发布，请尽快更新到新版本。",
                 "【更新公告】前往 https://www.minebbs.com/resources/litexloader-x-bds.2670/ 下载最新版本LXL更新",
                 "【更新公告】新版本新增自动更新机制，此后在BDS版本不变的情况下，将不再需要手动更新",
-                "【New Version】LiteXLoader 0.4.5 has been released. Upgrade to the new verion as soon as possible",
+                "【New Version】LiteXLoader 0.5.0 has been released. Upgrade to the new verion as soon as possible",
                 "【New Version】Go to https://www.minebbs.com/resources/litexloader-x-bds.2670/ to get the newest version of LXL",
                 "【New Version】Auto upgrade system comes! Have a try, you will like it!"
             ]
