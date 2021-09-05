@@ -1,7 +1,7 @@
 [
   {
-    "name":"1.1.1",
-    "versionNum":11,
-    "content":"Some Api adjustments"
+    "name":"1.1.2",
+    "versionNum":12,
+    "content":"Fix some bugs, add some api"
   }
 ]
