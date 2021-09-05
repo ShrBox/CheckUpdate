@@ -1,7 +1,7 @@
 [
   {
-    "name":"1.1.2",
-    "versionNum":12,
-    "content":"Fix some bugs, add some api"
+    "name":"1.1.2.1",
+    "versionNum":13,
+    "content":"Fix GUI crash"
   }
 ]
